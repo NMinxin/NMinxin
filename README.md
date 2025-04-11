@@ -1,4 +1,4 @@
-[![MasterHead][(your image link)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEzcHl5bjNsZXZ1dzV4Z29sZ3Z6aDR0MjJvZzc4dWZoNGFmMWZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q34Q46x7bUUKJfbn0s/giphy.gif)][(your GitHub link)](https://github.com/NMinxin)
+[![MasterHead][(your image link)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHEzcHl5bjNsZXZ1dzV4Z29sZ3Z6aDR0MjJvZzc4dWZoNGFmMWZoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q34Q46x7bUUKJfbn0s/giphy.gif)][(your GitHub link)](https://github.com/NMinxin)]
 ## Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
