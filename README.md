@@ -4,7 +4,7 @@
       <th>  <div style="width: 50%;">
     <h3>Hello World! I'm Minxin🪷</h3>
     <p>
-      🌺I'm a biology undergraduate who enjoys working in HTML, CSS, JavaScript, and Python.<br>
+      🌺I'm a Research Technician who enjoys working in HTML, CSS, JavaScript, and Python.<br>
       🌸Learning is a journey that never ends, and I excitedly explore new topics!
     </p>
   </div></th>
